@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# kivy cache directory
+.kivy/
+
+# Virtual environment directory
+venv/
+myenv/
