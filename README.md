@@ -45,7 +45,7 @@ This is a simple password generator application built using Python and the Kivy 
 
 ## Screenshots
 
-![alt text](screenshots/Screenshot.png)
+![alt text](mob-app-password/screenshots/Screenshot.png)
 
 ## Terminal Password Generator
 
