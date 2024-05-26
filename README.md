@@ -36,7 +36,7 @@ This is a simple password generator application built using Python and the Kivy 
 1. Run the application:
 
    ```bash
-   python main.py
+   python password.py
    ```
 
 2. Set the desired options for the password generation.
@@ -62,7 +62,7 @@ This is a simple password generator application built using Python and the Kivy 
 1. Run the Python script:
 
    ```bash
-   python terminal_password_generator.py
+   python password.py
    ```
 
 2. Follow the prompts to set the desired options for the password generation.
